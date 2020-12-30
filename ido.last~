@@ -1,0 +1,49 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/anton/_ws/raw-blog/src/" . "raw_blog/")
+ ("/Users/anton/_ws/raw-blog/" . "src/")
+ ("/Users/anton/_ws/" . "raw-blog/")
+ ("/Users/anton/" . ".emacs.d/")
+ ("/Users/" . "anton/")
+ ("/" . "Users/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/anton/.emacs.d/"
+ "/Users/anton/_ws/raw-blog/src/raw_blog/"
+ "/Users/anton/_ws/raw-blog/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "init.el"
+ "core.clj"
+ "project.clj"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/anton/.emacs.d/" (24556 32756 491225 342000) ".smex-items" "custom/" "elpa/" "recentf" "init.el" "auto-save-list/" "projectile-bookmarks.eld" "ido.last~" "init.el~" "ido.last" "../" "./")
+
+ ("/Users/anton/_ws/raw-blog/" (24556 32836 511172 451000) "src/" ".git/" "doc/" ".gitignore" "README.md" ".nrepl-port" "resources/" ".hgignore" "target/" "CHANGELOG.md" "test/" "LICENSE" "project.clj" "../" "./")
+
+ ("/Users/anton/_ws/raw-blog/src/raw_blog/" (24556 32814 926682 523000) "pages/" "#core.clj#" "blogs.clj" ".#core.clj" "core.clj" "../" "./")
+
+ ("/Users/anton/_ws/raw-blog/src/" (24549 6384 715936 498000) "raw_blog/" "../" "./")
+
+ ("/Users/anton/_ws/" (24549 6384 712997 101000) "raw-blog/" "../" "./")
+
+ ("/Users/anton/" (24556 28928 404172 507000) ".viminfo" ".bash_history" ".gitconfig" "Downloads/" ".cli-tools/" ".m2/" ".mono/" "new_file" "Documents/" ".Trash/" "Applications/" ".dotnet/" "Movies/" ".ssh/" "foo" "Public/" ".lein/" ".bash_sessions/" ".cups/" ".android/" ".emacs.d/" ".IdentityService/" "Library/" "Desktop/" ".nuget/" ".clojure_history" "Pictures/" "Projects/" ".local/" ".templateengine/" ".omnisharp/" ".subversion/" "_ws/" ".CFUserTextEncoding" ".DS_Store" ".clojure/" ".gitkraken/" "Music/" ".config/" "../" "./")
+
+ ("/Users/" (23857 56749 613040 796000) "Shared/" "anton/" ".localized" "crispsupport/" "../" "./")
+
+ ("/home/" (24556 22632 738697 0) "../" "./")
+
+ ("/Users/anton/.emacs.d/elpa/git-commit-2.90.1/" (24556 31898 767895 719000) "git-commit.elc" "git-commit.el" "git-commit-pkg.el" "git-commit-autoloads.el" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
